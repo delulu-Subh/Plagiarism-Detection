@@ -1,0 +1,5 @@
+Web development includes frontend and backend technologies.
+HTML, CSS, and JavaScript are foundational web technologies.
+Frameworks like React and Django simplify development workflows.
+Databases store and manage application data efficiently.
+REST APIs enable communication between different services.

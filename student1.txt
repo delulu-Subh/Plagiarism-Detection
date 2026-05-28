@@ -1,0 +1,5 @@
+Artificial intelligence is transforming modern computing.
+Machine learning enables systems to learn from data automatically.
+Deep learning is a specialized subset of machine learning.
+Neural networks are widely used in computer vision and NLP.
+Python is one of the most popular languages for AI development.

@@ -1,0 +1,5 @@
+Cloud computing provides scalable infrastructure for applications.
+Distributed systems allow services to remain reliable and efficient.
+Cybersecurity protects systems from unauthorized access and attacks.
+Encryption plays a major role in securing digital communications.
+Modern software engineering relies heavily on automation and testing.

@@ -1,0 +1,5 @@
+Data science combines statistics, programming, and domain expertise.
+Visualization tools help analysts understand patterns in data.
+Pandas and NumPy are important Python libraries for data analysis.
+Machine learning models can predict outcomes using historical information.
+Data preprocessing is essential before training a model.
